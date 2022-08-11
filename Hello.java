@@ -1,1 +1,5 @@
-This is my 1st java file
+class Hello{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java to Python");  
+    }  
+} 
